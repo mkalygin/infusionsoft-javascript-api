@@ -22,8 +22,8 @@
   "dependencies": {
     "inflection": "~1.13.1",
     "q": "~1.5.1",
-    "typedef": "~1.1.0",
-    "underscore": "~1.13.1",
+    "typedef": "~0.13.2",
+    "underscore": "~1.5.1",
     "xmlrpc": "~1.3.2"
   },
   "devDependencies": {}
